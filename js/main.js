@@ -1,11 +1,10 @@
 $(document).ready(function(){
-/*
 
     $('.nav-link').click(function(){
         $('.nav-item').find('.nav-link').removeClass('active')
         $(this).addClass('active')
     })
-   */
+
     $(".content .owl-carousel").owlCarousel({
         loop:true,
         margin:60,
